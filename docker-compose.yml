@@ -1,4 +1,4 @@
-version: "1.0"
+version: "3.9.7"
 services:
    v3:
     build: .
