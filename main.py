@@ -38,9 +38,9 @@ LOG_GROUP=Config.LOG_GROUP
 
 bot = Client(
     "RadioPlayer",
-    Config.API_ID,
-    Config.API_HASH,
-    bot_token=Config.BOT_TOKEN,
+    7028372,
+    10bc5c7771a121c180ab8859ab438bb8,
+    bot_token=5341638080:AAF8AEKUCCSoD0Fol7QMUIhXINfPvNM_0_0,
     plugins=dict(root="plugins.bot")
 )
 if not os.path.isdir("./downloads"):
